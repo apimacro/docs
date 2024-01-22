@@ -11,6 +11,21 @@
 
 Macro builder based on CSV data format and Command with bash scripts
 
+
+
+# selenium
+Selenium WebDriver with adapter for apidsl and botreck usage
+
+
+https://www.selenium.dev/selenium-ide/
+
+
+https://addons.mozilla.org/en-GB/firefox/addon/selenium-ide/
+
+
+
+
+
 ---
 
 + [edit](https://github.com/apimacro/docs/edit/main/README.md)
